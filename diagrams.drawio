@@ -1,18 +1,89 @@
-<mxfile host="65bd71144e">
-    <diagram name="Network" id="nfKDPrQ0_Zu5AEfDcWmH">
-        <mxGraphModel dx="906" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-            </root>
-        </mxGraphModel>
-    </diagram>
-    <diagram id="utzbtKd-isVNyDnpS3Mg" name="Hosting">
-        <mxGraphModel dx="906" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-            </root>
-        </mxGraphModel>
-    </diagram>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.5.1" pages="3">
+  <diagram id="_pl-fkxDbTvsYbmScpIo" name="Physical">
+    <mxGraphModel dx="2946" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,YzgZcU3GHEvfjsIQD9xA&quot;}" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MfLnZwUPt3hmTxtOnTq0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Physical Network&lt;/b&gt;&lt;div&gt;Home Network&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="450" x="360" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="MfLnZwUPt3hmTxtOnTq0-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Author: &lt;/b&gt;Glenn&lt;div&gt;&lt;b&gt;Date:&lt;/b&gt;&amp;nbsp;22/02/2026&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="810" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="lRKq0nmi-kK8xe3rldD5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Infrastructure&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="10" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Router" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Server Switch" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Server WAP" vertex="1">
+          <mxGeometry height="80" width="80" x="550" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Loungeroom Switch" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Loungeroom WAP" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Office WAP" vertex="1">
+          <mxGeometry height="80" width="80" x="210" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Raspberry PI5" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GMKTec&amp;nbsp;&lt;div&gt;NucBox G3 Plus&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12TB HDD" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="f56C701useXaX3Wa8Afa-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12TB HDD" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Logical Network" id="M3uSVbUnJxb6D9BvHErR">
+    <mxGraphModel dx="1186" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,YzgZcU3GHEvfjsIQD9xA&quot;}" math="0" shadow="0">
+      <root>
+        <mxCell id="qZY2OjLf4B7Z8pRlXuxT-0" />
+        <mxCell id="qZY2OjLf4B7Z8pRlXuxT-1" parent="qZY2OjLf4B7Z8pRlXuxT-0" />
+        <mxCell id="qZY2OjLf4B7Z8pRlXuxT-2" parent="qZY2OjLf4B7Z8pRlXuxT-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Logical Network&lt;/b&gt;&lt;div&gt;Home Network&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="450" x="360" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="qZY2OjLf4B7Z8pRlXuxT-3" parent="qZY2OjLf4B7Z8pRlXuxT-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Author: &lt;/b&gt;Glenn&lt;div&gt;&lt;b&gt;Date:&lt;/b&gt;&amp;nbsp;22/02/2026&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="810" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="1TjMCJ58z_aLfAQFDcol-0" parent="qZY2OjLf4B7Z8pRlXuxT-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Infrastructure&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="10" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YzgZcU3GHEvfjsIQD9xA" name="Background">
+    <mxGraphModel dx="1395" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MixYH4vdjc_acQ6l6GGs-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="810" width="1150" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MixYH4vdjc_acQ6l6GGs-2" parent="MixYH4vdjc_acQ6l6GGs-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="810" width="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="MixYH4vdjc_acQ6l6GGs-3" parent="MixYH4vdjc_acQ6l6GGs-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="1150" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="MixYH4vdjc_acQ6l6GGs-5" parent="MixYH4vdjc_acQ6l6GGs-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="350" x="800" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="MixYH4vdjc_acQ6l6GGs-10" parent="MixYH4vdjc_acQ6l6GGs-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="350" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>
