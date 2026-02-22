@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Logical Network" id="M3uSVbUnJxb6D9BvHErR">
-    <mxGraphModel dx="1186" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,YzgZcU3GHEvfjsIQD9xA&quot;}" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,YzgZcU3GHEvfjsIQD9xA&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="qZY2OjLf4B7Z8pRlXuxT-0" />
         <mxCell id="qZY2OjLf4B7Z8pRlXuxT-1" parent="qZY2OjLf4B7Z8pRlXuxT-0" />
@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YzgZcU3GHEvfjsIQD9xA" name="Background">
-    <mxGraphModel dx="1395" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
